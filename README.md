@@ -5,7 +5,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=sidmaji&theme=onedark&show_icons=true&count_private=true&hide_title=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="48%" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=sidmaji&theme=onedark&show_icons=true&count_private=true&hide_title=true&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" width="48%" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidmaji&theme=onedark&layout=compact&langs_count=6&hide_border=true" width="48%" />
 </p>
 
