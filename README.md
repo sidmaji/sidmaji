@@ -4,7 +4,7 @@
 
 ## GitHub Stats
 
-<table align="center" border="none !important">
+<table align="center">
     <tr>
         <td align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidmaji&theme=onedark&show_icons=true&count_private=true&hide_title=true&hide=contribs&hide_border=true"/>
