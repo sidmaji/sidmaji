@@ -4,16 +4,10 @@
 
 ## GitHub Stats
 
-<table align="center">
-    <tr>
-        <td align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidmaji&theme=onedark&show_icons=true&count_private=true&hide_title=true&hide=contribs&hide_border=true"/>
-        </td>
-        <td align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidmaji&theme=onedark&layout=compact&langs_count=10&hide_border=true"/>
-        </td>
-    </tr>
-</table>
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=sidmaji&theme=onedark&show_icons=true&count_private=true&hide_title=true&hide=contribs&hide_border=true" width="48%" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidmaji&theme=onedark&layout=compact&langs_count=10&hide_border=true" width="48%" />
+</p>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidmaji&theme=onedark" width="100%" />
