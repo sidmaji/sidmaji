@@ -4,8 +4,10 @@
 
 ## GitHub Stats
 
-<img height=200 align="center" src="https://github-readme-stats-pi-teal-72.vercel.app/api?username=sidmaji&theme=onedark&show_icons=true&count_private=true&hide_title=true&hide_border=true" />
-<img height=200 align="center" src="https://github-readme-stats-pi-teal-72.vercel.app/api/top-langs/?username=sidmaji&theme=onedark&layout=compact&langs_count=6&hide_border=true" />
+<p align="center">
+  <img align="top" src="https://github-readme-stats-pi-teal-72.vercel.app/api?username=sidmaji&theme=onedark&show_icons=true&count_private=true&hide_title=true&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" width="48%" />
+  <img align="top" src="https://github-readme-stats-pi-teal-72.vercel.app/api/top-langs/?username=sidmaji&theme=onedark&layout=compact&langs_count=6&hide_border=true&card_width=320" width="48%" />
+</p>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidmaji&theme=onedark" width="100%" />
