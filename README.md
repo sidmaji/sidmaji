@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidmaji&theme=ayu_mirage" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidmaji&theme=onedark" width="100%" />
 </p>
 
 ## Projects
