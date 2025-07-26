@@ -16,17 +16,17 @@
 ## Projects
 
 <a href="https://github.com/sidmaji/Portfolio-Risk-Simulator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidmaji&repo=Portfolio-Risk-Simulator&theme=github_dark_dimmed" width="49.65%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidmaji&repo=Portfolio-Risk-Simulator&theme=one_dark_pro" width="49.65%" />
 </a>
 <a href="https://github.com/sidmaji/sentimentwebapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidmaji&repo=sentimentwebapp&theme=github_dark_dimmed" width="49.65%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidmaji&repo=sentimentwebapp&theme=one_dark_pro" width="49.65%" />
 </a>
 <a href="https://github.com/sidmaji/financial-sentiment-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidmaji&repo=financial-sentiment-analysis&theme=github_dark_dimmed" width="49.65%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidmaji&repo=financial-sentiment-analysis&theme=one_dark_pro" width="49.65%" />
 </a>
 <a href="https://github.com/sidmaji/pocketfinance">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidmaji&repo=pocketfinance&theme=github_dark_dimmed" width="49.65%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidmaji&repo=pocketfinance&theme=one_dark_pro" width="49.65%" />
 </a>
 <a href="https://github.com/sidmaji/Garbage-Image-Classification/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidmaji&repo=Garbage-Image-Classification&theme=github_dark_dimmed" width="49.65%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidmaji&repo=Garbage-Image-Classification&theme=one_dark_pro" width="49.65%" />
 </a>
