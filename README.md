@@ -30,3 +30,6 @@
 <a href="https://github.com/sidmaji/Garbage-Image-Classification/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidmaji&repo=Garbage-Image-Classification&theme=one_dark_pro" width="49.65%" />
 </a>
+<a href="https://github.com/sidmaji/Loan-Default-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidmaji&repo=Loan-Default-Prediction&theme=one_dark_pro" width="49.65%" />
+</a>
