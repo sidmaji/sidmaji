@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=50&duration=3500&pause=1000&color=4e9a9f&center=true&vCenter=true&width=600&background=eff1f5&height=100&random=true&lines=Hi%2C+I'm+Siddhant+Maji;Nice+to+meet+you!" width="100%" />
-</p>
-
 ## GitHub Stats
 
 <p align="center">
