@@ -12,6 +12,7 @@
 
 ## Skills
 Python · Java · C++ · PyTorch/TensorFlow · AWS/Azure · Linux · Pandas/numPy
+
 Currently learning: Kubernetes · Rust · Go
 
 
