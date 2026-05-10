@@ -1,4 +1,4 @@
-## Siddhant Maji
+# Siddhant Maji
 - CS @ UT Austin
 - AI Research @ The University of Texas at Dallas
 	- [Financial Sentiment Analysis using LLMs](https://github.com/sidmaji/financial-sentiment-analysis) - Won 2nd place out of 60 participants
