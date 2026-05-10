@@ -1,3 +1,6 @@
+## Siddhant Maji
+CS @ UT Austin
+
 ## GitHub Stats
 
 <p align="center">
